@@ -31,8 +31,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-https://youtube.com/shorts/RHpbYLGkmPk
-
+(https://www.loom.com/share/e01866b9e6af4c4b926d169be04527cb)
 ## Notes
 
 Describe any challenges encountered while building the app.
